@@ -1,4 +1,4 @@
-**Descrition**
+**Description**
 This analysis intends to find out vehicle stealing patterns based on data published by the New Zealand Poice Department. The dataset displays theft data from six months' records.
 
 **Data cleaning and processing**
